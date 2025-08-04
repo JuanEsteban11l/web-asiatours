@@ -2,9 +2,9 @@ AsiaTours Colombia
 1. Propósito de la página:
 AsiaTours Colombia es una página web informativa que presenta diferentes destinos turísticos en Asia para viajeros colombianos.
 
-Objetivo: ofrecer una descripción breve de los tours disponibles (duración, actividades y servicios incluidos).
+  Objetivo: ofrecer una descripción breve de los tours disponibles (duración, actividades y servicios incluidos).
 
-Público objetivo: personas en Colombia interesadas en viajar a Asia y conocer información básica de los paquetes turísticos.
+  Público objetivo: personas en Colombia interesadas en viajar a Asia y conocer información básica de los paquetes turísticos.
 
 2. Estructura y semántica:
 La página utiliza HTML5 semántico para organizar el contenido de manera clara y jerárquica:
